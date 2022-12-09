@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name": "Lê Hùng",
+        "tel": "0355912653",
+        "Permission" : 1
+    },
+    {
+        "id" : 2,
+        "name": "Phan Long",
+        "tel": "09900099",
+        "Permission" : 2
+    },
+    {
+        "id" : 3,
+        "name": "Nam Anh",
+        "tel": "098887900",
+        "Permission" : 3
+    },
+    {
+        "id" : 4,
+        "name": "Phúc Hưng",
+        "tel": "088777634",
+        "Permission" : 3
+    },
+    {
+        "id" : 5,
+        "name": "Tống Minh",
+        "tel": "039887865",
+        "Permission" : 3
+    }
+]
